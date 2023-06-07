@@ -16,7 +16,7 @@ import com.example.fragment_guide_0_058.databinding.FragmentQuestionBinding;
 
 public class QuestionFragment extends Fragment {
 
-private FragmentQuestionBinding mBinding;
+    private FragmentQuestionBinding mBinding;
 
     public QuestionFragment() {
         // Required empty public constructor
